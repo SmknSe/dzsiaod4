@@ -1,0 +1,1 @@
+#define lineSize 50
